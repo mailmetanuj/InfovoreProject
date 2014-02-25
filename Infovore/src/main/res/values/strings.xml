@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Infovore</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="Crimson">#E25D33</color>
+    <color name="Gray">#3D2B1F</color>
+    <color name="CoolGray">#AA181818</color>
+    <color name="BattleShipGray">#848482</color>
+    <color name="orange">#Ed1C24</color>
+    <color name="white">#FFFFFF</color>
+    <color name="action_bar_text">#7D7D7F</color>
+    <color name="tab_unselected">#2488CC</color>
+    <color name="tab_selected">#2DAAFF</color>
+    <color name="tab_unselected_focused">#77C7FF</color>
+    <color name="tab_selected_focused">#77C7FF</color>
+    <color name="tab_unselected_pressed">#77C7FF</color>
+    <color name="tab_selected_pressed">#77C7FF</color>
+
+
+
+
+</resources>

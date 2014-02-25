@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Infovore/Infovore.iml" filepath="$PROJECT_DIR$/Infovore/Infovore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfovoreProject.iml" filepath="$PROJECT_DIR$/InfovoreProject.iml" />
+    </modules>
+  </component>
+</project>
+
