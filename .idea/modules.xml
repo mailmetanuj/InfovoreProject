@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Infovore/Infovore.iml" filepath="$PROJECT_DIR$/Infovore/Infovore.iml" />
       <module fileurl="file://$PROJECT_DIR$/InfovoreProject.iml" filepath="$PROJECT_DIR$/InfovoreProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfovoreProject1.iml" filepath="$PROJECT_DIR$/InfovoreProject1.iml" />
     </modules>
   </component>
 </project>
